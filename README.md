@@ -2,7 +2,7 @@
 Articles and publications. 
 
 ## Publications
-[20.11.2021] Базовые концепции аллокаторов(перевод): [link](https://habr.com/ru/post/590415/).
+[20.11.2021] Базовые концепции аллокаторов: [link](https://habr.com/ru/post/590415/).
 
 ## Articles
 [11.2021] About [allocators](https://github.com/dasfex/papers/blob/main/university_articles/allocators.pdf).
