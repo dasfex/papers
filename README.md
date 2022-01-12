@@ -2,6 +2,8 @@
 Articles and publications. 
 
 ## Publications
+[12.01.2022] Аллокаторы внутри: [link](https://habr.com/ru/post/645137/).
+
 [20.11.2021] Базовые концепции аллокаторов: [link](https://habr.com/ru/post/590415/).
 
 ## Articles
