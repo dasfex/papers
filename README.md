@@ -16,10 +16,10 @@ Articles and publications.
 ## Other stuff
 Links to projects I supervised:
 
-[spring 2021] [github.com/30something/bsu_game_project](github.com/30something/bsu_game_project).
+[spring 2021] [github.com/30something/bsu_game_project](https://github.com/30something/bsu_game_project).
 
-[spring 2021] [github.com/mrboorger/grandiose-dig](github.com/mrboorger/grandiose-dig).
+[spring 2021] [github.com/mrboorger/grandiose-dig](https://github.com/mrboorger/grandiose-dig).
 
-[spring 2020] [github.com/Derovi/DefenceOfTheNexus](github.com/Derovi/DefenceOfTheNexus).
+[spring 2020] [github.com/Derovi/DefenceOfTheNexus](https://github.com/Derovi/DefenceOfTheNexus).
 
-[spring 2020] [github.com/KnowNamee/Total-Space](github.com/KnowNamee/Total-Space).
+[spring 2020] [github.com/KnowNamee/Total-Space](https://github.com/KnowNamee/Total-Space).
