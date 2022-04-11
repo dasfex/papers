@@ -12,3 +12,14 @@ Articles and publications.
 [05.2021] Using GAN's for [generating sneakers photos](https://github.com/dasfex/papers/blob/main/university_articles/gan/gan.pdf).
 
 [11.2020] Taxi [trips duration predictor](https://github.com/dasfex/papers/blob/main/university_articles/taxi_trips/text.pdf).
+
+## Other stuff
+Links to projects I supervised:
+
+[spring 2021] github.com/30something/bsu_game_project
+
+[spring 2021] github.com/mrboorger/grandiose-dig
+
+[spring 2020] github.com/Derovi/DefenceOfTheNexus
+
+[spring 2020] github.com/KnowNamee/Total-Space
