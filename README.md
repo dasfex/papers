@@ -1,7 +1,7 @@
 # papers
 All self-made stuff. 
 
-Telegram channel about C++ and programming: [t.me/thisnotes](t.me/thisnotes) . 
+Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisnotes). 
 
 ## Publications
 [12.01.2022] Аллокаторы внутри: [link](https://habr.com/ru/post/645137/).
