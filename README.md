@@ -18,6 +18,10 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 ## Other stuff
 Links to projects I supervised:
 
+[spring 2022] [github.com/Dmi4er4/Glee-no-mess](https://github.com/Dmi4er4/Glee-no-mess).
+
+[spring 2022] [github.com/klitsunova/TrenchWar](https://github.com/klitsunova/TrenchWar).
+
 [spring 2021] [github.com/30something/bsu_game_project](https://github.com/30something/bsu_game_project).
 
 [spring 2021] [github.com/mrboorger/grandiose-dig](https://github.com/mrboorger/grandiose-dig).
