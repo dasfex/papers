@@ -4,6 +4,8 @@ All self-made stuff.
 Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisnotes). 
 
 ## Publications
+[28.06.2022] Привлекательные структуры данных: [habr](https://habr.com/ru/post/673776/).
+
 [12.01.2022] Аллокаторы внутри: [habr](https://habr.com/ru/post/645137/).
 
 [20.11.2021] Базовые концепции аллокаторов: [habr](https://habr.com/ru/post/590415/).
