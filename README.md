@@ -11,11 +11,11 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 [20.11.2021] Базовые концепции аллокаторов: [habr](https://habr.com/ru/post/590415/).
 
 ## Articles
-[11.2021] About [allocators](https://github.com/dasfex/papers/blob/main/university_articles/allocators.pdf).
+[11.2021] [Дипломная работа: об аллокаторах и сборщиках мусора](https://github.com/dasfex/papers/blob/main/university_articles/diploma.pdf).
 
-[05.2021] Using GAN's for [generating sneakers photos](https://github.com/dasfex/papers/blob/main/university_articles/gan/gan.pdf).
+[05.2021] Использование генеративно-состязательных сетей для [генерации изображений обуви](https://github.com/dasfex/papers/blob/main/university_articles/gan/gan.pdf).
 
-[11.2020] Taxi [trips duration predictor](https://github.com/dasfex/papers/blob/main/university_articles/taxi_trips/text.pdf).
+[11.2020] Попытка предсказать [время поездки в такси](https://github.com/dasfex/papers/blob/main/university_articles/taxi_trips/text.pdf) для NY.
 
 ## Other stuff
 Links to projects I supervised:
