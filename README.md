@@ -4,6 +4,8 @@ All self-made stuff.
 Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisnotes). 
 
 ## Publications
+[25.09.2022] Обработка ошибок и C++: [habr](https://habr.com/ru/post/690038/). 
+
 [28.06.2022] Привлекательные структуры данных: [habr](https://habr.com/ru/post/673776/).
 
 [12.01.2022] Аллокаторы внутри: [habr](https://habr.com/ru/post/645137/).
