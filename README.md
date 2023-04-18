@@ -3,6 +3,10 @@ All self-made stuff.
 
 Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisnotes). 
 
+## Talks
+
+[17.04.2023] Обработка ошибок и C++ на Intern Meetup Week: [youtube](https://www.youtube.com/live/5stJKC6UGyI?feature=share&t=532).
+
 ## Publications
 [25.09.2022] Обработка ошибок и C++: [habr](https://habr.com/ru/post/690038/). 
 
