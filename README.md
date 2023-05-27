@@ -8,6 +8,8 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 [17.04.2023] Обработка ошибок и C++ на Intern Meetup Week: [youtube](https://www.youtube.com/live/5stJKC6UGyI?feature=share&t=532).
 
 ## Publications
+[22.05.2023] Как я себя мотивирую табличкой в экселе: [vas3k.club](https://vas3k.club/post/19725/).
+
 [25.09.2022] Обработка ошибок и C++: [habr](https://habr.com/ru/post/690038/). 
 
 [28.06.2022] Привлекательные структуры данных: [habr](https://habr.com/ru/post/673776/).
