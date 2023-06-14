@@ -7,8 +7,7 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 [17.04.2023] Обработка ошибок и C++ на Intern Meetup Week: [youtube](https://www.youtube.com/live/5stJKC6UGyI?feature=share&t=532).
 
-## Publications
-[22.05.2023] Как я себя мотивирую табличкой в экселе: [vas3k.club](https://vas3k.club/post/19725/).
+## Technical articles
 
 [25.09.2022] Обработка ошибок и C++: [habr](https://habr.com/ru/post/690038/). 
 
@@ -17,6 +16,10 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 [12.01.2022] Аллокаторы внутри: [habr](https://habr.com/ru/post/645137/).
 
 [20.11.2021] Базовые концепции аллокаторов: [habr](https://habr.com/ru/post/590415/).
+
+## Non-technical articles
+
+[22.05.2023] Как я себя мотивирую табличкой в экселе: [vas3k.club](https://vas3k.club/post/19725/).
 
 ## Articles
 [11.2021] [Дипломная работа: об аллокаторах и сборщиках мусора](https://github.com/dasfex/papers/blob/main/university_articles/diploma.pdf).
