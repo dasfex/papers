@@ -9,6 +9,8 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Technical articles
 
+[25.07.2023] Три движка для одной Лавки: как эволюционировала система поиска в сервисе: [habr](https://habr.com/ru/companies/yandex/articles/748134/).
+
 [25.09.2022] Обработка ошибок и C++: [habr](https://habr.com/ru/post/690038/). 
 
 [28.06.2022] Привлекательные структуры данных: [habr](https://habr.com/ru/post/673776/).
@@ -18,6 +20,8 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 [20.11.2021] Базовые концепции аллокаторов: [habr](https://habr.com/ru/post/590415/).
 
 ## Non-technical articles
+
+[25.07.2023] Мотивашки на каждый день: [vas3k.club](https://vas3k.club/post/20380/).
 
 [22.05.2023] Как я себя мотивирую табличкой в экселе: [vas3k.club](https://vas3k.club/post/19725/).
 
