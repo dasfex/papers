@@ -21,6 +21,8 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Non-technical articles
 
+[21.01.2024] Про марафон и не только: [vas3k.club](https://vas3k.club/post/22712/).
+
 [25.07.2023] Мотивашки на каждый день: [vas3k.club](https://vas3k.club/post/20380/).
 
 [22.05.2023] Как я себя мотивирую табличкой в экселе: [vas3k.club](https://vas3k.club/post/19725/).
