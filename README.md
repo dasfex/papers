@@ -9,6 +9,8 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Technical articles
 
+[16.05.2024] Многообразие связных списков: [habr](https://habr.com/ru/articles/814955/).
+
 [02.02.2024] Разреженные структуры данных: [habr](https://habr.com/ru/articles/790844/).
 
 [25.07.2023] Три движка для одной Лавки: как эволюционировала система поиска в сервисе: [habr](https://habr.com/ru/companies/yandex/articles/748134/).
