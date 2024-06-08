@@ -5,6 +5,8 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Talks
 
+[02.06.2024] C++ Russia 2024. Lightning talk: (N)RVO: что такое и как не сломать? Без записи. 
+
 [17.04.2023] Обработка ошибок и C++ на Intern Meetup Week: [youtube](https://www.youtube.com/live/5stJKC6UGyI?feature=share&t=532).
 
 ## Technical articles
