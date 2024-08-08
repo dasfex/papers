@@ -5,7 +5,7 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Talks
 
-[27.07.2024] C++ Zero Cost Conf 2024. (N)RVO: что такое и как не сломать? [youtube](https://www.youtube.com/live/DgS9p40-Xfw?si=BnuFJY_gkt1dK43z&t=13190).
+[27.07.2024] C++ Zero Cost Conf 2024. (N)RVO: что такое и как не сломать? [youtube]([https://www.youtube.com/live/DgS9p40-Xfw?si=BnuFJY_gkt1dK43z&t=13190](https://www.youtube.com/watch?v=6B2euArRfdI&list=PLKSS_nuTY36hfa33WLFxmASOEuW4NP0uX&index=4)).
 
 [02.06.2024] C++ Russia 2024. Lightning talk: (N)RVO: что такое и как не сломать? Без записи. 
 
