@@ -67,6 +67,7 @@ Even grid -- это когда мы делим планету на равные 
 Повторяя такую операцию, мы можем прийти к подходящим для нас размерам. 
 
 > Можно заметить, что порядок обхода подобной структуры это что-то вроде [z-order curves](https://www.wikiwand.com/en/articles/Z-order_curve). Похожий подход [может использоваться в Delta Lake](https://docs.databricks.com/en/delta/data-skipping.html#delta-zorder).
+> 
 > Тут есть [небольшое видео](https://www.youtube.com/watch?v=X6ugouVuQxk) с визуализацией уточнения геохеша на сфере. 
 
 Посмотрим на пример:
