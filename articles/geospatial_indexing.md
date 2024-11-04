@@ -15,7 +15,7 @@
 SELECT business_id, latitude, longitude
 FROM business
 WHERE (latitude BETWENN {:my_lat} - radius AND {:my_lat} + radius)
-AND (longitude BETWENN {:my_long} - radius AND {:my_long} + radius)
+  AND (longitude BETWENN {:my_long} - radius AND {:my_long} + radius)
 ```
 
 
