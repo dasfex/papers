@@ -16,8 +16,8 @@
 ```sql
 SELECT business_id, latitude, longitude
 FROM business
-WHERE (latitude BETWENN {:my_lat} - radius AND {:my_lat} + radius)
-  AND (longitude BETWENN {:my_long} - radius AND {:my_long} + radius)
+WHERE (latitude BETWEEN {:my_lat} - radius AND {:my_lat} + radius)
+  AND (longitude BETWEEN {:my_long} - radius AND {:my_long} + radius)
 ```
 
 Так мы найдём все нужные бизнесы в пределах bounding box нашего круга. Проблема в том, что такой запрос неэффективен. Нам придётся просканировать всю таблицу в БД и проверить каждый отдельный бизнес на условие. Если ваша табличка содержит десятки-сотни миллионов записей, будет неприятно. 
