@@ -17,7 +17,7 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 [02.02.2024] Разреженные структуры данных: [habr](https://habr.com/ru/articles/790844/).
 
-[25.07.2023] Три движка для одной Лавки: как эволюционировала система поиска в сервисе: [habr](https://habr.com/ru/companies/yandex/articles/748134/).
+[25.07.2023] Три движка для одной Лавки: как эволюционировала система поиска в сервисе: [habr](https://habr.com/ru/companies/yandex/articles/748134/), [dev.go.yandex](https://dev.go.yandex/blog/three-engines-one-lavka-2023-09-27).
 
 [25.09.2022] Обработка ошибок и C++: [habr](https://habr.com/ru/post/690038/). 
 
