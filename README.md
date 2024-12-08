@@ -5,6 +5,8 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Talks
 
+[07.12.2024] Foodtech tour: Minsk. Оптимизируй это немедленно: ускоряем разработку в Яндекс Лавке.
+
 [27.07.2024] C++ Zero Cost Conf 2024. (N)RVO: что такое и как не сломать? [youtube](https://www.youtube.com/watch?v=6B2euArRfdI&list=PLKSS_nuTY36hfa33WLFxmASOEuW4NP0uX&index=4).
 
 [02.06.2024] C++ Russia 2024. Lightning talk: (N)RVO: что такое и как не сломать? Без записи. 
