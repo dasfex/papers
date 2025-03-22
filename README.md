@@ -5,19 +5,13 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Talks
 
-| Date          | Conference        | Talk       | Recording link     |
-|---------------|-------------------|------------|--------------------|
-| 21.03.2025    | C++ Russia 2025   | Lightning talk. Оптимизируем труд человека: пайплайны в каталоге Лавки.   | \- |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
-
-[07.12.2024] Foodtech tour: Minsk. Оптимизируй это немедленно: ускоряем разработку в Яндекс Лавке. [youtube](https://www.youtube.com/watch?v=efIvao0bqlg).
-
-[27.07.2024] C++ Zero Cost Conf 2024. (N)RVO: что такое и как не сломать? [youtube](https://www.youtube.com/watch?v=6B2euArRfdI&list=PLKSS_nuTY36hfa33WLFxmASOEuW4NP0uX&index=4).
-
-[02.06.2024] C++ Russia 2024. Lightning talk. (N)RVO: что такое и как не сломать? Без записи. 
-
-[17.04.2023] Intern Meetup Week. Обработка ошибок и C++: [youtube](https://www.youtube.com/live/5stJKC6UGyI?feature=share&t=532).
+| Date          | Event name                 | Talk       | Recording link     |
+|---------------|----------------------------|------------|--------------------|
+| 21.03.2025    | C++ Russia 2025            | Lightning talk. Оптимизируем труд человека: пайплайны в каталоге Лавки.   | \- |
+| 07.12.2024    | Foodtech tour: Minsk       | Оптимизируй это немедленно: ускоряем разработку в Яндекс Лавке            | [youtube](https://www.youtube.com/watch?v=efIvao0bqlg) |
+| 27.07.2024    | C++ Zero Cost Conf 2024    | (N)RVO: что такое и как не сломать?                                       | [youtube](https://www.youtube.com/watch?v=6B2euArRfdI&list=PLKSS_nuTY36hfa33WLFxmASOEuW4NP0uX&index=4) |
+| 02.06.2024    | C++ Russia 2024            | Lightning talk. (N)RVO: что такое и как не сломать?                       | \- |
+| 17.04.2023    | Intern Meetup Week         | Обработка ошибок и C++                                                    | [youtube](https://www.youtube.com/live/5stJKC6UGyI?feature=share&t=532) |
 
 ## Technical articles
 
