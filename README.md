@@ -5,7 +5,11 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Talks
 
-[21.03.2025] C++ Russia 2025. Lightning talk. Оптимизируем труд человека: пайплайны в каталоге Лавки. Без записи. 
+| Date          | Conference        | Talk       | Recording link     |
+|---------------|-------------------|------------|--------------------|
+| 21.03.2025    | C++ Russia 2025   | Lightning talk. Оптимизируем труд человека: пайплайны в каталоге Лавки.   | \- |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
 
 [07.12.2024] Foodtech tour: Minsk. Оптимизируй это немедленно: ускоряем разработку в Яндекс Лавке. [youtube](https://www.youtube.com/watch?v=efIvao0bqlg).
 
