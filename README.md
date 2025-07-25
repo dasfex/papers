@@ -5,9 +5,10 @@ Telegram channel about C++ and programming: [t.me/thisnotes](https://t.me/thisno
 
 ## Talks
 
-| Date          | Event name                 | Talk       | Recording link     |
+| Date          | Event name                 | Talk       | Materials          |
 |---------------|----------------------------|------------|--------------------|
-| 21.03.2025    | C++ Russia 2025            | Lightning talk. Оптимизируем труд человека: пайплайны в каталоге Лавки.   | \- |
+| 02.08.2025    | C++ Zero Cost Conf 2025    | i, j, k и шаблоны: вспоминаем линейную алгебру                            | \- |
+| 21.03.2025    | C++ Russia 2025            | Lightning talk. Оптимизируем труд человека: пайплайны в каталоге Лавки    | \- |
 | 07.12.2024    | Foodtech tour: Minsk       | Оптимизируй это немедленно: ускоряем разработку в Яндекс Лавке            | [youtube](https://www.youtube.com/watch?v=efIvao0bqlg) |
 | 27.07.2024    | C++ Zero Cost Conf 2024    | (N)RVO: что такое и как не сломать?                                       | [youtube](https://www.youtube.com/watch?v=6B2euArRfdI&list=PLKSS_nuTY36hfa33WLFxmASOEuW4NP0uX&index=4) |
 | 02.06.2024    | C++ Russia 2024            | Lightning talk. (N)RVO: что такое и как не сломать?                       | \- |
